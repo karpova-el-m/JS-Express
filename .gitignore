@@ -1,0 +1,9 @@
+#vscode
+.vscode/
+
+#node
+node_modules/
+
+# DB
+yourdatabase.db
+.env
